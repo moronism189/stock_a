@@ -14,6 +14,9 @@
 微信公众号「股指神通」（微信号StockIndexAI）
 
 
+
+
+
 版本更新日志：
 
 2019-05-05     V1.0「FreeStyle-Arm」于Github开源，github还不太会操作，反复commit很多次，不必理会
